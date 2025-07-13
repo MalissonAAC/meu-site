@@ -1,1 +1,15 @@
-# meu-site
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Bem-vindo ao meu site!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Olá, eu sou o Marcus!</h1>
+        <p>Este é meu primeiro site hospedado na AWS S3.</p>
+        <p>🟢 Site funcionando com sucesso!</p>
+    </div>
+</body>
+</html>
